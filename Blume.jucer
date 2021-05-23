@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="jWrPEA" name="Blume" projectType="guiapp" version="1.0.0"
+              bundleIdentifier="com.andibrae.Blume" includeBinaryInAppConfig="1"
+              jucerVersion="3.1.0">
+  <MAINGROUP id="iAZg9w" name="Blume">
+    <GROUP id="{20169528-5C8C-B57D-212C-1DA6F541BFA5}" name="Source">
+      <FILE id="evEczC" name="abcd.cpp" compile="1" resource="0" file="Source/abcd.cpp"/>
+      <FILE id="KiNca3" name="abcd.h" compile="0" resource="0" file="Source/abcd.h"/>
+      <FILE id="Opd56x" name="abcdFlash.h" compile="0" resource="0" file="Source/abcdFlash.h"/>
+      <FILE id="eMCOMS" name="abcdPDF.h" compile="0" resource="0" file="Source/abcdPDF.h"/>
+      <FILE id="aFOqhW" name="abcdSimulation.h" compile="0" resource="0"
+            file="Source/abcdSimulation.h"/>
+      <FILE id="gDfUAg" name="bbs.cpp" compile="1" resource="0" file="Source/bbs.cpp"/>
+      <FILE id="ebxpgt" name="bbs.h" compile="0" resource="0" file="Source/bbs.h"/>
+      <FILE id="E1kPTz" name="bbsAbstracts.h" compile="0" resource="0" file="Source/bbsAbstracts.h"/>
+      <FILE id="pEZ3Ei" name="bbsFont.h" compile="0" resource="0" file="Source/bbsFont.h"/>
+      <FILE id="IC5IPP" name="bbsGlyph.h" compile="0" resource="0" file="Source/bbsGlyph.h"/>
+      <FILE id="sjGP8L" name="bbsMappings.h" compile="0" resource="0" file="Source/bbsMappings.h"/>
+      <FILE id="DFwLFR" name="bbsNamespaces.h" compile="0" resource="0" file="Source/bbsNamespaces.h"/>
+      <FILE id="NY9LRP" name="bbsOptics.h" compile="0" resource="0" file="Source/bbsOptics.h"/>
+      <FILE id="hpfSbu" name="bbsShapes.h" compile="0" resource="0" file="Source/bbsShapes.h"/>
+      <FILE id="kSk0L7" name="bbsText.h" compile="0" resource="0" file="Source/bbsText.h"/>
+      <FILE id="PT0Gai" name="Commands.cpp" compile="1" resource="0" file="Source/Commands.cpp"/>
+      <FILE id="cW5NEN" name="Commands.h" compile="0" resource="0" file="Source/Commands.h"/>
+      <FILE id="kT5pnm" name="Content.cpp" compile="1" resource="0" file="Source/Content.cpp"/>
+      <FILE id="twbaO9" name="Content.h" compile="0" resource="0" file="Source/Content.h"/>
+      <FILE id="P8qWoC" name="Dialogs.cpp" compile="1" resource="0" file="Source/Dialogs.cpp"/>
+      <FILE id="ryLHXr" name="Dialogs.h" compile="0" resource="0" file="Source/Dialogs.h"/>
+      <FILE id="hSGdjO" name="Document.cpp" compile="1" resource="0" file="Source/Document.cpp"/>
+      <FILE id="AYQznt" name="Document.h" compile="0" resource="0" file="Source/Document.h"/>
+      <FILE id="kyt7wY" name="Elements.cpp" compile="1" resource="0" file="Source/Elements.cpp"/>
+      <FILE id="Km6Mpg" name="Elements.h" compile="0" resource="0" file="Source/Elements.h"/>
+      <FILE id="rPBbny" name="Events.cpp" compile="1" resource="0" file="Source/Events.cpp"/>
+      <FILE id="pxvxgp" name="Events.h" compile="0" resource="0" file="Source/Events.h"/>
+      <FILE id="yQaZrO" name="Gestures.cpp" compile="1" resource="0" file="Source/Gestures.cpp"/>
+      <FILE id="Y3HTqG" name="Gestures.h" compile="0" resource="0" file="Source/Gestures.h"/>
+      <FILE id="Z4xAKf" name="Globals.cpp" compile="1" resource="0" file="Source/Globals.cpp"/>
+      <FILE id="wBr10i" name="Globals.h" compile="0" resource="0" file="Source/Globals.h"/>
+      <FILE id="ALcYfx" name="Icon.icns" compile="0" resource="1" file="Source/Icon.icns"/>
+      <FILE id="p4bP7J" name="Icon.jpg" compile="0" resource="1" file="Source/Icon.jpg"/>
+      <FILE id="P37p5F" name="Info.plist" compile="0" resource="1" file="Source/Info.plist"/>
+      <FILE id="BQv87O" name="Interaction.cpp" compile="1" resource="0" file="Source/Interaction.cpp"/>
+      <FILE id="YF65vs" name="Interaction.h" compile="0" resource="0" file="Source/Interaction.h"/>
+      <FILE id="nXLZtK" name="Libraries.h" compile="0" resource="0" file="Source/Libraries.h"/>
+      <FILE id="GM8CdW" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
+      <FILE id="g8LIOb" name="Main.h" compile="0" resource="0" file="Source/Main.h"/>
+      <FILE id="EGTdge" name="Menu.cpp" compile="1" resource="0" file="Source/Menu.cpp"/>
+      <FILE id="BehbNh" name="Menu.h" compile="0" resource="0" file="Source/Menu.h"/>
+      <FILE id="JxPFvm" name="Page.cpp" compile="1" resource="0" file="Source/Page.cpp"/>
+      <FILE id="dMHtxf" name="Page.h" compile="0" resource="0" file="Source/Page.h"/>
+      <FILE id="nmECXa" name="prim.cpp" compile="1" resource="0" file="Source/prim.cpp"/>
+      <FILE id="gSvhT6" name="prim.h" compile="0" resource="0" file="Source/prim.h"/>
+      <FILE id="N5go2P" name="primArray.h" compile="0" resource="0" file="Source/primArray.h"/>
+      <FILE id="nXzP1x" name="primAuto.h" compile="0" resource="0" file="Source/primAuto.h"/>
+      <FILE id="yCAyRJ" name="primBitfield.h" compile="0" resource="0" file="Source/primBitfield.h"/>
+      <FILE id="leedoC" name="primColor.h" compile="0" resource="0" file="Source/primColor.h"/>
+      <FILE id="BxG6MQ" name="primEndian.h" compile="0" resource="0" file="Source/primEndian.h"/>
+      <FILE id="plxfqZ" name="primFile.h" compile="0" resource="0" file="Source/primFile.h"/>
+      <FILE id="PiRz33" name="primGeometry.h" compile="0" resource="0" file="Source/primGeometry.h"/>
+      <FILE id="DNIj3S" name="primHeap.h" compile="0" resource="0" file="Source/primHeap.h"/>
+      <FILE id="xHQ8Hj" name="primLink.h" compile="0" resource="0" file="Source/primLink.h"/>
+      <FILE id="Ws4jzR" name="primList.h" compile="0" resource="0" file="Source/primList.h"/>
+      <FILE id="n0e8ay" name="primMacros.h" compile="0" resource="0" file="Source/primMacros.h"/>
+      <FILE id="jKBXFb" name="primMath.h" compile="0" resource="0" file="Source/primMath.h"/>
+      <FILE id="QOeX8R" name="primMemory.h" compile="0" resource="0" file="Source/primMemory.h"/>
+      <FILE id="pd9OoT" name="primOS.h" compile="0" resource="0" file="Source/primOS.h"/>
+      <FILE id="ivX7R7" name="primPath.h" compile="0" resource="0" file="Source/primPath.h"/>
+      <FILE id="n3v4eL" name="primProfiler.h" compile="0" resource="0" file="Source/primProfiler.h"/>
+      <FILE id="EmUJIx" name="primRandom.h" compile="0" resource="0" file="Source/primRandom.h"/>
+      <FILE id="orWkhc" name="primRational.h" compile="0" resource="0" file="Source/primRational.h"/>
+      <FILE id="hiJ6Va" name="primRectangle.h" compile="0" resource="0" file="Source/primRectangle.h"/>
+      <FILE id="KwKkZT" name="primSound.h" compile="0" resource="0" file="Source/primSound.h"/>
+      <FILE id="jbhrwY" name="primStream.h" compile="0" resource="0" file="Source/primStream.h"/>
+      <FILE id="SFxFVe" name="primString.h" compile="0" resource="0" file="Source/primString.h"/>
+      <FILE id="uqkzux" name="primText.h" compile="0" resource="0" file="Source/primText.h"/>
+      <FILE id="VzMXCB" name="primTransform.h" compile="0" resource="0" file="Source/primTransform.h"/>
+      <FILE id="X9lPa0" name="primTypeface.h" compile="0" resource="0" file="Source/primTypeface.h"/>
+      <FILE id="yrzPPu" name="primTypes.h" compile="0" resource="0" file="Source/primTypes.h"/>
+      <FILE id="rb4rL8" name="primUnicode.h" compile="0" resource="0" file="Source/primUnicode.h"/>
+      <FILE id="tF6uc4" name="primUnits.h" compile="0" resource="0" file="Source/primUnits.h"/>
+      <FILE id="JH9l8K" name="primVector.h" compile="0" resource="0" file="Source/primVector.h"/>
+      <FILE id="HPmmIj" name="primXML.h" compile="0" resource="0" file="Source/primXML.h"/>
+      <FILE id="EeKhzn" name="Renderer.cpp" compile="1" resource="0" file="Source/Renderer.cpp"/>
+      <FILE id="vgIxeR" name="Renderer.h" compile="0" resource="0" file="Source/Renderer.h"/>
+      <FILE id="sCn06l" name="Representation.cpp" compile="1" resource="0"
+            file="Source/Representation.cpp"/>
+      <FILE id="btIlfP" name="Representation.h" compile="0" resource="0"
+            file="Source/Representation.h"/>
+      <FILE id="Jgc5pp" name="Score.cpp" compile="1" resource="0" file="Source/Score.cpp"/>
+      <FILE id="quJmGE" name="Score.h" compile="0" resource="0" file="Source/Score.h"/>
+      <FILE id="Q9m4Qv" name="Viewer.cpp" compile="1" resource="0" file="Source/Viewer.cpp"/>
+      <FILE id="pKS7J0" name="Viewer.h" compile="0" resource="0" file="Source/Viewer.h"/>
+      <FILE id="E4onkK" name="Window.cpp" compile="1" resource="0" file="Source/Window.cpp"/>
+      <FILE id="EKhFZa" name="Window.h" compile="0" resource="0" file="Source/Window.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX" smallIcon="p4bP7J" bigIcon="p4bP7J"
+               customPList="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;&#10;&lt;plist version=&quot;1.0&quot;&gt;&#10;&lt;dict&gt;&#10;&#9;&lt;key&gt;CFBundleDevelopmentRegion&lt;/key&gt;&#10;&#9;&lt;string&gt;English&lt;/string&gt;&#10;&#9;&lt;key&gt;CFBundleDocumentTypes&lt;/key&gt;&#10;&#9;&lt;array&gt;&#10;&#9;&#9;&lt;dict&gt;&#10;&#9;&#9;&#9;&lt;key&gt;CFBundleTypeExtensions&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;array&gt;&#10;&#9;&#9;&#9;&#9;&lt;string&gt;pdf&lt;/string&gt;&#10;&#9;&#9;&#9;&#9;&lt;string&gt;PDF&lt;/string&gt;&#10;&#9;&#9;&#9;&lt;/array&gt;&#10;&#9;&#9;&#9;&lt;key&gt;CFBundleTypeMIMETypes&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;array&gt;&#10;&#9;&#9;&#9;&#9;&lt;string&gt;application/pdf&lt;/string&gt;&#10;&#9;&#9;&#9;&lt;/array&gt;&#10;&#9;&#9;&#9;&lt;key&gt;CFBundleTypeName&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;string&gt;PDF Document&lt;/string&gt;&#10;&#9;&#9;&#9;&lt;key&gt;CFBundleTypeOSTypes&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;array&gt;&#10;&#9;&#9;&#9;&#9;&lt;string&gt;pdf&lt;/string&gt;&#10;&#9;&#9;&#9;&#9;&lt;string&gt;PDF&lt;/string&gt;&#10;&#9;&#9;&#9;&lt;/array&gt;&#10;&#9;&#9;&#9;&lt;key&gt;CFBundleTypeRole&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;string&gt;Editor&lt;/string&gt;&#10;&#9;&#9;&#9;&lt;key&gt;LSItemContentTypes&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;array&gt;&#10;&#9;&#9;&#9;&#9;&lt;string&gt;com.adobe.pdf&lt;/string&gt;&#10;&#9;&#9;&#9;&lt;/array&gt;&#10;&#9;&#9;&#9;&lt;key&gt;LSTypeIsPackage&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;false/&gt;&#10;&#9;&#9;&lt;/dict&gt;&#10;&#9;&#9;&lt;dict&gt;&#10;&#9;&#9;&#9;&lt;key&gt;CFBundleTypeExtensions&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;array&gt;&#10;&#9;&#9;&#9;&#9;&lt;string&gt;xml&lt;/string&gt;&#10;&#9;&#9;&#9;&#9;&lt;string&gt;XML&lt;/string&gt;&#10;&#9;&#9;&#9;&lt;/array&gt;&#10;&#9;&#9;&#9;&lt;key&gt;CFBundleTypeOSTypes&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;array&gt;&#10;&#9;&#9;&#9;&#9;&lt;string&gt;TEXT&lt;/string&gt;&#10;&#9;&#9;&#9;&#9;&lt;string&gt;utxt&lt;/string&gt;&#10;&#9;&#9;&#9;&lt;/array&gt;&#10;&#9;&#9;&#9;&lt;key&gt;CFBundleTypeName&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;string&gt;XML Source File&lt;/string&gt;&#10;&#9;&#9;&#9;&lt;key&gt;CFBundleTypeRole&lt;/key&gt;&#10;&#9;&#9;&#9;&lt;string&gt;Viewer&lt;/string&gt;&#10;&#9;&#9;&lt;/dict&gt;&#10;&#9;&lt;/array&gt;&#10;&#9;&lt;key&gt;CFBundleIconFile&lt;/key&gt;&#10;&#9;&lt;string&gt;Icon.icns&lt;/string&gt;&#10;&#9;&lt;key&gt;CFBundleInfoDictionaryVersion&lt;/key&gt;&#10;&#9;&lt;string&gt;6.0&lt;/string&gt;&#10;&#9;&lt;key&gt;CFBundlePackageType&lt;/key&gt;&#10;&#9;&lt;string&gt;APPL&lt;/string&gt;&#10;&lt;/dict&gt;&#10;&lt;/plist&gt;&#10;">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" osxSDK="default" osxCompatibility="10.6 SDK" osxArchitecture="default"
+                       isDebug="1" optimisation="1" targetName="Blume"/>
+        <CONFIGURATION name="Release" osxSDK="default" osxCompatibility="10.6 SDK" osxArchitecture="default"
+                       isDebug="0" optimisation="2" targetName="Blume"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_video" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULES id="juce_audio_basics" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_audio_devices" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_audio_formats" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_audio_processors" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_core" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_cryptography" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_data_structures" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_events" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_graphics" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_gui_basics" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_gui_extra" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_opengl" showAllCode="1" useLocalCopy="1"/>
+    <MODULES id="juce_video" showAllCode="1" useLocalCopy="1"/>
+  </MODULES>
+  <JUCEOPTIONS/>
+</JUCERPROJECT>

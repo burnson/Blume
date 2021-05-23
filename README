@@ -1,0 +1,22 @@
+Blume
+-----
+A multilevel rhythmic feather designer after Philipp Blume who imagined such a tool.
+
+Application
+-----------
+The most recent build of the application can be found here:
+Builds/MacOSX/build/Debug/Blume.app (10.6-10.9)
+
+Building
+--------
+In the Builds/MacOSX folder open the Blume.xcodeproj file, then Build the app
+in Xcode.
+
+Upgrading JUCE
+--------------
+To upgrade the version of JUCE, get the Introjucer tool from http://juce.com,
+open up Blume.jucer, and resave the project, open it in Xcode, and rebuild.
+
+License
+-------
+This application and the JUCE library is distributed under GPLv3. See LICENSE.
